@@ -1,5 +1,6 @@
-telebot
-Pillow
-numpy
-opencv-python
-rembg
+telebot==0.0.5
+Pillow==10.0.0
+numpy==1.24.4
+opencv-python==4.7.0
+rembg==2.0.1
+
