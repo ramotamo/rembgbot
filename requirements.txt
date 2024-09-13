@@ -1,0 +1,5 @@
+telebot
+Pillow
+numpy
+opencv-python
+rembg
